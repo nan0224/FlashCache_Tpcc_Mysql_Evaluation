@@ -1,0 +1,2 @@
+# FlashCache_Tpcc_Mysql_Evaluation
+In this project, we evaluates a MySql database with and without a flashcache using TPC-C benchmark.  The objective is to be as comprehensive as possible by analyzing important parameters such as cache to database size ratio, mix of read and write actions, and different configurations of the host-side cache such as its write policy (write-back, write-through, and write-around).
